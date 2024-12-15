@@ -1,0 +1,5 @@
+# capstone==5.0.3
+pefile==2024.8.26
+requests==2.32.3
+#urllib3==2.2.3
+vt-py==0.18.4
