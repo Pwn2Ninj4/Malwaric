@@ -7,14 +7,14 @@
 
 # Installation
 ```console
-kali@d4nex~$ git clone https://github.com/Pwn2Ninj4/Malwaric/
-kali@d4nex~$ cd Malwaric
-kali@d4nex~$ pip3 install -r requirements.txt
-kali@d4nex~$ python3 malwaric.py -f <malware_example.exe> -i
+git clone https://github.com/Pwn2Ninj4/Malwaric/
+cd Malwaric
+pip3 install -r requirements.txt
+python3 malwaric.py -f <malware_example.exe> -i
 ```
 ## Config your VT API token
 ```console
-kali@d4nex~$ nano config.py
+d4nex@kali~$ nano config.py
 # config.py
 VERSION = '0.5'
 # API TOKEN VIRUS TOTAL
